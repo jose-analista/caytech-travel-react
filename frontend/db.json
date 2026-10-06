@@ -1,0 +1,28 @@
+{
+  "paquetes": [
+    {
+      "id": 1,
+      "nombre": "Desierto de Atacama",
+      "destino": "San Pedro de Atacama",
+      "dias": 4,
+      "precio": 450000,
+      "descripcion": "Lagunas, salares y astroturismo en el desierto más árido del mundo."
+    },
+    {
+      "id": 2,
+      "nombre": "Nieve y cordillera",
+      "destino": "Santiago",
+      "dias": 3,
+      "precio": 320000,
+      "descripcion": "Contraste entre la ciudad y la cordillera de los Andes."
+    },
+    {
+      "id": 3,
+      "nombre": "Salar de Uyuni",
+      "destino": "Uyuni, Bolivia",
+      "dias": 5,
+      "precio": 520000,
+      "descripcion": "Recorrido por el salar más grande del mundo."
+    }
+  ]
+}
